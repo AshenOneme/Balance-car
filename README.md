@@ -14,5 +14,11 @@ JY901传感器与实验室传感器使用振动台进行对比，以下是实测
 <div align=center>
 <img width="250" src="https://user-images.githubusercontent.com/98397090/215261571-e416913e-1597-44f3-8991-0efb430d261a.png"/>
 <img width="250" src="https://user-images.githubusercontent.com/98397090/215261883-18206ce8-6869-491c-8f9c-3e872d28ade1.png"/>
-  
+<img width="250" src="https://user-images.githubusercontent.com/98397090/215262228-2454029e-32a0-43f4-b805-0939f0b92f12.png"/>
+</div>
+
+<div align=center>
+<img width="250" src="https://user-images.githubusercontent.com/98397090/215262478-d39e26b5-4277-4146-a526-36e24d63b7a9.png"/>
+<img width="250" src="https://user-images.githubusercontent.com/98397090/215262658-e84635db-5111-43e7-855b-f312d646dd86.png"/>
+<img width="250" src="https://user-images.githubusercontent.com/98397090/215262777-08421312-c8c1-4d6c-99e7-8022fe671515.png"/>
 </div>
