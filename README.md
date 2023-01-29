@@ -11,7 +11,7 @@
 </div><br>
 
 * ### 陀螺仪精度 ###
-JY901传感器与实验室传感器使用振动台进行对比，以下是实测曲线对比
+JY901传感器与实验室传感器使用振动台进行对比，以下是实测加速度对比：
 <div align=center>
 <img width="250" src="https://user-images.githubusercontent.com/98397090/215261571-e416913e-1597-44f3-8991-0efb430d261a.png"/>
 <img width="250" src="https://user-images.githubusercontent.com/98397090/215261883-18206ce8-6869-491c-8f9c-3e872d28ade1.png"/>
