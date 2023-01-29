@@ -10,8 +10,6 @@
   <img width="250" src="https://j.gifs.com/QkGPrl.gif"/>
 </div><br>
 
-![image](https://j.gifs.com/QkGPrl.gif)
-
 * ### 陀螺仪精度 ###
 JY901传感器与实验室传感器使用振动台进行对比，以下是实测曲线对比
 <div align=center>
