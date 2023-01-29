@@ -7,7 +7,7 @@
 <div align=center>
   <img width="250" src="https://user-images.githubusercontent.com/98397090/215258730-3816f08a-8a0c-4170-bf4c-46618e9a9a1f.png"/>
   <img width="250" src="https://user-images.githubusercontent.com/98397090/215258949-5a619773-dc73-49df-9ecf-03f13fc7a815.png"/>
-  <img width="250" src="https://j.gifs.com/QkGPrl.gif"/>
+  <img width="250" src="https://j.gifs.com/pZmJD6.gif"/>
 </div><br>
 
 * ### 陀螺仪精度 ###
