@@ -5,9 +5,10 @@
 * 树莓派：4B8g
 * 陀螺仪：JY901
 <div align=center>
-<img width="250" src="https://user-images.githubusercontent.com/98397090/215258730-3816f08a-8a0c-4170-bf4c-46618e9a9a1f.png"/>
-<img width="250" src="https://user-images.githubusercontent.com/98397090/215258949-5a619773-dc73-49df-9ecf-03f13fc7a815.png"/>
-</div>
+  <img width="250" src="https://user-images.githubusercontent.com/98397090/215258730-3816f08a-8a0c-4170-bf4c-46618e9a9a1f.png"/>
+  <img width="250" src="https://user-images.githubusercontent.com/98397090/215258949-5a619773-dc73-49df-9ecf-03f13fc7a815.png"/>
+  <img width="250" src="https://user-images.githubusercontent.com/98397090/215258949-5a619773-dc73-49df-9ecf-03f13fc7a815.png"/>
+</div><br>
 
 * ### 陀螺仪精度 ###
 JY901传感器与实验室传感器使用振动台进行对比，以下是实测曲线对比
